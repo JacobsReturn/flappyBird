@@ -1,0 +1,6 @@
+C:\Users\s200503\source\repos\RaylibProject\Project2D\bin\Debug\Project2D.exe.config
+C:\Users\s200503\source\repos\RaylibProject\Project2D\bin\Debug\Project2D.exe
+C:\Users\s200503\source\repos\RaylibProject\Project2D\bin\Debug\Project2D.pdb
+C:\Users\s200503\source\repos\RaylibProject\Project2D\obj\Debug\Project2D.csprojAssemblyReference.cache
+C:\Users\s200503\source\repos\RaylibProject\Project2D\obj\Debug\Project2D.exe
+C:\Users\s200503\source\repos\RaylibProject\Project2D\obj\Debug\Project2D.pdb
